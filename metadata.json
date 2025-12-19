@@ -1,0 +1,7 @@
+{
+  "name": "VoxTranslate AI",
+  "description": "A sophisticated text-to-voice translator powered by Gemini. Translate between languages and generate high-quality, natural-sounding speech in multiple personas.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
